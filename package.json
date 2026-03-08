@@ -1,5 +1,5 @@
 {
-  "name": "testpack",
+  "name": "@pranti/testpack",
   "version": "0.0.1",
   "description": "This is a test package",
   "main": "index.js",
