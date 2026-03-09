@@ -9,7 +9,7 @@ function checkFaah(str) {
 	return str === "Faahh";
 }
 
-function checkWds(str, num=5) {
+function checkWds(str, num) {
 	console.log("bug fixing, ", str, num*num); //bug fixing
 	return isW(str);
 }
