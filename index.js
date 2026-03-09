@@ -10,6 +10,7 @@ function checkFaah(str) {
 }
 
 function checkWds(str) {
+	console.log("bug fixing, ", str); //bug fixing
 	return isW(str);
 }
 
