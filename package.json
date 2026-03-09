@@ -1,8 +1,12 @@
 {
   "name": "testpackk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a test package",
   "main": "index.js",
+	"homepage": "pranti.vercel.app",
+	"repository": {
+		"url": "https://github.com/prantiranibanda/Testpack"
+	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
