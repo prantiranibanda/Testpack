@@ -9,8 +9,8 @@ function checkFaah(str) {
 	return str === "Faahh";
 }
 
-function checkWds(str) {
-	console.log("bug fixing, ", str); //bug fixing
+function checkWds(str, num=5) {
+	console.log("bug fixing, ", str, num*num); //bug fixing
 	return isW(str);
 }
 
